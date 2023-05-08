@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CrossyRoad/Scenes/MainMenu.unity
+    guid: 4e84aa0c5c73e3f418daeb57384bc44e
+  - enabled: 1
+    path: Assets/CrossyRoad/Scenes/CrossyRoad.unity
+    guid: cf358939f2caeb3448432564d6393bd0
+  m_configObjects: {}
